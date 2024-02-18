@@ -7,7 +7,4 @@ This project is a Flask-based web application for creating a market platform. It
 This project was created by following the tutorial series on YouTube by JimShaped Coding. You can find the tutorial here. (https://www.youtube.com/watch?v=Qr4QMBUPxWo).
 
 
-## Acknowledgment
-
-Special thanks to JimShaped Coding for providing the insightful tutorial series. Their clear explanations and demonstrations greatly facilitated the development of this project.
 
