@@ -1,6 +1,6 @@
 # Flask-Market
 
-This project is a Flask-based web application for creating a market platform. It was created following a tutorial from JimShaped Coding's YouTube channel.
+This project is a Flask-based web application for creating a market platform where you can buy or sell items.
 
 ## Tutorial Reference
 
